@@ -128,3 +128,7 @@ See [`RESEARCH.md`](./RESEARCH.md) for sources. Before launch, the owner should 
 6. **Reviews and rating.** The rating is a Google snapshot (4.0 from 352 reviews, Nov 2026) plus three verbatim Google reviews. Re-check before launch.
 7. **Facebook page** (none found), email address, and any founding story the owners want told.
 8. **Group dining.** The inquiry form only promises a call back, not packages. Edit the text once services are confirmed.
+
+## Previews
+
+Screenshots are in [`docs/screenshots`](./docs/screenshots), and short walkthrough videos (desktop, mobile, admin) are in [`docs/demo`](./docs/demo).
